@@ -20,7 +20,7 @@ To run the bot, create a config.json with the following properties:
 	"BotToken":"<Discord bot token>",
 	"Nickname":"<twitch bot nickname>",
 	"Prefix":"<twitch prefix>",
-	"ChannelID":<Discord channel ID>,
+	"ChannelID":"<Discord channel ID>",
 	"TwitchChannel":"<twitch channel>"
 }
 ```
